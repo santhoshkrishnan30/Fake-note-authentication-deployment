@@ -57,8 +57,4 @@ This documentation provides details on the available endpoints, request paramete
 
 To stop the server, you can press `Ctrl + C` in the terminal where it's running. This will gracefully shut down the Uvicorn process.
 
-## Support
 
-If you encounter any issues or have questions about this FastAPI application, please feel free to [open an issue](<repository-issues-url>) in this repository.
-
-Happy coding!
